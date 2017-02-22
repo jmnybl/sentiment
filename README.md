@@ -6,4 +6,4 @@ positive.txt = list of positive words
 
 negative.txt = list of negative words
 
-data.tsv = tab separated file of sentences and annotated sentiments, sentences are sampled from Suomi24 (http://urn.fi/urn:nbn:fi:lb-2017021503) discussion chains mentioning Greece somewhere in the chain (the sentence itself does not have to mention Greece)
+data.tsv = tab separated file of sentences and annotated sentiments, sentences are sampled from Suomi24 (available at Kielipankki, http://urn.fi/urn:nbn:fi:lb-2015120401) discussion chains mentioning Greece somewhere in the chain (the sentence itself does not have to mention Greece)
